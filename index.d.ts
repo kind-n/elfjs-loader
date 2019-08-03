@@ -41,3 +41,5 @@ declare module "elfjs" {
         [extension: string]: CompilerMethod;
     }
 }
+
+export = Elf;
